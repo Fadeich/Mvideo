@@ -10,7 +10,7 @@ scipy==0.19.1
 
 sklearn==0.0
 
-mystem==0.1.0
+mystem==0.1.0 https://tech.yandex.ru/mystem/
 
 nltk==3.2.4
 
