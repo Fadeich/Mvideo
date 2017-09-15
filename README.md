@@ -2,6 +2,8 @@
 
 ## requirements
 
+Python 3.6.2
+
 scikit-learn==0.18.2
 
 scipy==0.19.1
